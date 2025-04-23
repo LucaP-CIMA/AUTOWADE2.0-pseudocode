@@ -19,7 +19,7 @@ Due to licensing constraints with IDL and the proprietary nature of some input d
 
 Please cite the following article if you use this pseudocode or reproduce parts of the algorithm:
 
-> Pulvirenti, L., et al. (2025). *[Your Paper Title]*. ISPRS Journal of Photogrammetry and Remote Sensing. [DOI]
+> Pulvirenti, L., et al. (2025). Continuous flood monitoring using on-demand SAR data acquired with different geometries: methodology and test on COSMO-SkyMed images. ISPRS Journal of Photogrammetry and Remote Sensing. [DOI]
 
 ## 🛠️ Algorithm Overview
 
